@@ -1,0 +1,30 @@
+body{
+    background-color: rgba(164, 164, 233, 0.774);
+}
+
+header{
+    background-color: rgb(74, 76, 156);
+    border-radius: 10px;
+    color: rgb(255, 255, 255);
+    text-align: center;
+    justify-self: center; 
+    width: 60%;
+}
+img{
+    height: 250px;
+    width: 300px;
+    border-radius: 10px;
+    padding-left: 35%;
+}
+button{
+    border-radius: 10px;
+    color: white;
+    background-color: black;
+}
+
+section, h3{
+    justify-items: center;
+    background-color: rgb(255, 255, 255);
+    border-radius: 10px;
+    
+}
